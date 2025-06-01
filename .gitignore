@@ -1,0 +1,2 @@
+# Ignore the trained model file
+email_classifier_model.pkl
